@@ -96,16 +96,6 @@ A deep learning project focused on brain tumor segmentation using medical imagin
 
 ---
 
-
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhanvith1/Dhanvith1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, learning new technologies and exploring opportunities in software engineering and AI.
