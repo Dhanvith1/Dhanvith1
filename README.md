@@ -96,18 +96,7 @@ A deep learning project focused on brain tumor segmentation using medical imagin
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanvith1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanvith1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanvith1&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Activity
 
